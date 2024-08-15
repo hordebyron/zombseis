@@ -1,0 +1,493 @@
+{
+    "attributes": [
+        {
+            "attribute_name": "background",
+            "possible_values": [
+                {
+                    "value": "Studio Wall Ghost",
+                    "rarity": 1
+                },
+                {
+                    "value": "Skulls Inverted Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 2 BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 2 Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Brick Wall Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 5 Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Brick Wall",
+                    "rarity": 1
+                },
+                {
+                    "value": "Skulls Blue",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 4 BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Skulls",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 3 Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Brick Wall BW Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 1 BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Studio BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Studio Ghost",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 3 BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Studio Wall BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Brick Wall BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 1 Shadow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Brick Wall BW Ghost",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 5 BW",
+                    "rarity": 1
+                },
+                {
+                    "value": "Skulls Inverted",
+                    "rarity": 1
+                },
+                {
+                    "value": "Alive 4 Shadow",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "right eyes",
+            "possible_values": [
+                {
+                    "value": "Stitched Shut",
+                    "rarity": 1
+                },
+                {
+                    "value": "Blue Button",
+                    "rarity": 1
+                },
+                {
+                    "value": "Swirly",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Swirl",
+                    "rarity": 1
+                },
+                {
+                    "value": "Glowing Yellow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Glaring",
+                    "rarity": 1
+                },
+                {
+                    "value": "Purple Shades",
+                    "rarity": 1
+                },
+                {
+                    "value": "Angry",
+                    "rarity": 1
+                },
+                {
+                    "value": "Torn",
+                    "rarity": 1
+                },
+                {
+                    "value": "Popped Out",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Bags",
+                    "rarity": 1
+                },
+                {
+                    "value": "Green Bug",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "body",
+            "possible_values": [
+                {
+                    "value": "Muscled",
+                    "rarity": 1
+                },
+                {
+                    "value": "button shirt orange",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped Grey Shirt #5",
+                    "rarity": 1
+                },
+                {
+                    "value": "Long Sleeve Purple Shirt",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped Orange Shirt #5",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped Blue Shirt #5",
+                    "rarity": 1
+                },
+                {
+                    "value": "Suit Black",
+                    "rarity": 1
+                },
+                {
+                    "value": "Naked",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped Red Shirt #5",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped Bloody White Shirt #5",
+                    "rarity": 1
+                },
+                {
+                    "value": "Bloody Muscled",
+                    "rarity": 1
+                },
+                {
+                    "value": "Ripped White Shirt #6",
+                    "rarity": 1
+                },
+                {
+                    "value": "Farmer Orange Shirt",
+                    "rarity": 1
+                },
+                {
+                    "value": "Hoodie Orange #10",
+                    "rarity": 1
+                },
+                {
+                    "value": "Short Sleeve Blue",
+                    "rarity": 1
+                },
+                {
+                    "value": "Short Sleeve Yellow",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "nose",
+            "possible_values": [
+                {
+                    "value": "Bandaged Up",
+                    "rarity": 1
+                },
+                {
+                    "value": "Gashed",
+                    "rarity": 1
+                },
+                {
+                    "value": "Drippy",
+                    "rarity": 1
+                },
+                {
+                    "value": "Holes",
+                    "rarity": 1
+                },
+                {
+                    "value": "Bulbous",
+                    "rarity": 1
+                },
+                {
+                    "value": "Stitched",
+                    "rarity": 1
+                },
+                {
+                    "value": "Missing",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "mouth",
+            "possible_values": [
+                {
+                    "value": "Smoking",
+                    "rarity": 1
+                },
+                {
+                    "value": "Tonue",
+                    "rarity": 1
+                },
+                {
+                    "value": "6 Teeth",
+                    "rarity": 1
+                },
+                {
+                    "value": "Gold Grill",
+                    "rarity": 1
+                },
+                {
+                    "value": "Drippy",
+                    "rarity": 1
+                },
+                {
+                    "value": "Missing Teeth",
+                    "rarity": 1
+                },
+                {
+                    "value": "Braces",
+                    "rarity": 1
+                },
+                {
+                    "value": "Lips",
+                    "rarity": 1
+                },
+                {
+                    "value": "Cigar",
+                    "rarity": 1
+                },
+                {
+                    "value": "Stitched",
+                    "rarity": 1
+                },
+                {
+                    "value": "Open",
+                    "rarity": 1
+                },
+                {
+                    "value": "Big Joint",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "ear",
+            "possible_values": [
+                {
+                    "value": "normal",
+                    "rarity": 1
+                },
+                {
+                    "value": "bandaged",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "head",
+            "possible_values": [
+                {
+                    "value": "Greyish Skin",
+                    "rarity": 1
+                },
+                {
+                    "value": "Green Skin",
+                    "rarity": 1
+                },
+                {
+                    "value": "One Big Bruise",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "left eyes",
+            "possible_values": [
+                {
+                    "value": "Stitched Shut",
+                    "rarity": 1
+                },
+                {
+                    "value": "Blue Button",
+                    "rarity": 1
+                },
+                {
+                    "value": "With Stitches",
+                    "rarity": 1
+                },
+                {
+                    "value": "Swirly",
+                    "rarity": 1
+                },
+                {
+                    "value": "Glowing Yellow",
+                    "rarity": 1
+                },
+                {
+                    "value": "Purple Shades",
+                    "rarity": 1
+                },
+                {
+                    "value": "Angry",
+                    "rarity": 1
+                },
+                {
+                    "value": "Torn",
+                    "rarity": 1
+                },
+                {
+                    "value": "Popped Out",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Swirls",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Bags",
+                    "rarity": 1
+                },
+                {
+                    "value": "Hanging Down",
+                    "rarity": 1
+                },
+                {
+                    "value": "Green Bug",
+                    "rarity": 1
+                }
+            ]
+        },
+        {
+            "attribute_name": "hair",
+            "possible_values": [
+                {
+                    "value": "boils",
+                    "rarity": 1
+                },
+                {
+                    "value": "Green Mohawk",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Mohawk",
+                    "rarity": 1
+                },
+                {
+                    "value": "shaggy-blonde",
+                    "rarity": 1
+                },
+                {
+                    "value": "Stubble",
+                    "rarity": 1
+                },
+                {
+                    "value": "Short Brown Hair",
+                    "rarity": 1
+                },
+                {
+                    "value": "Gloopy Blonde",
+                    "rarity": 1
+                },
+                {
+                    "value": "Spiked Blonde",
+                    "rarity": 1
+                },
+                {
+                    "value": "Bubble Brain",
+                    "rarity": 1
+                },
+                {
+                    "value": "Yellow Horns",
+                    "rarity": 1
+                },
+                {
+                    "value": "Red Horns",
+                    "rarity": 1
+                },
+                {
+                    "value": "No Top",
+                    "rarity": 1
+                },
+                {
+                    "value": "Wavy Ginger",
+                    "rarity": 1
+                },
+                {
+                    "value": "Spikey Blonde",
+                    "rarity": 1
+                },
+                {
+                    "value": "Stitches",
+                    "rarity": 1
+                },
+                {
+                    "value": "Spiked Auburn",
+                    "rarity": 1
+                },
+                {
+                    "value": "Purple Mohawk",
+                    "rarity": 1
+                },
+                {
+                    "value": "Headband Black",
+                    "rarity": 1
+                },
+                {
+                    "value": "Headband Cabal",
+                    "rarity": 1
+                },
+                {
+                    "value": "Spiked Teal",
+                    "rarity": 1
+                },
+                {
+                    "value": "Long Dark Hair",
+                    "rarity": 1
+                },
+                {
+                    "value": "Nightmare Hair",
+                    "rarity": 1
+                },
+                {
+                    "value": "Shaggy Dark Hair",
+                    "rarity": 1
+                }
+            ]
+        }
+    ]
+}
