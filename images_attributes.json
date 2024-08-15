@@ -158,7 +158,7 @@
                     "rarity": 1
                 },
                 {
-                    "value": "button shirt orange",
+                    "value": "Orange Button Shirt",
                     "rarity": 1
                 },
                 {
@@ -260,7 +260,7 @@
                     "rarity": 1
                 },
                 {
-                    "value": "Tonue",
+                    "value": "Tongue",
                     "rarity": 1
                 },
                 {
@@ -309,11 +309,11 @@
             "attribute_name": "ear",
             "possible_values": [
                 {
-                    "value": "normal",
+                    "value": "Normal",
                     "rarity": 1
                 },
                 {
-                    "value": "bandaged",
+                    "value": "Bandaged",
                     "rarity": 1
                 }
             ]
