@@ -1,0 +1,292 @@
+{
+    "blockRules": [
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "button blue"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "red bags"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "angry"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "stitched"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "glowing yellow"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "swirled"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "popped out"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "with stitches"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "shades purple"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "button blue"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "red bags"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "angry"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "stitched"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "glowing yellow"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "swirled"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "with stitches"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "hanging eye"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "bug eye"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "torn"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "swirly"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "bug eye"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "torn"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "right eye",
+                "value": "swirly"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "left eye",
+                    "value": "popped out"
+                },
+                {
+                    "attribute_name": "left eye",
+                    "value": "shades purple"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "mouth",
+                "value": "big joint"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "bling",
+                    "value": "gm"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "gn"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "wen og"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "mouth",
+                "value": "cigar"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "bling",
+                    "value": "gm"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "gn"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "wen og"
+                }
+            ]
+        },
+        {
+            "base_attribute": {
+                "attribute_name": "mouth",
+                "value": "big smoke"
+            },
+            "attribute_blacklist": [
+                {
+                    "attribute_name": "bling",
+                    "value": "gm"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "gn"
+                },
+                {
+                    "attribute_name": "bling",
+                    "value": "wen og"
+                }
+            ]
+        }
+    ]
+}
